@@ -1,16 +1,25 @@
-# flutter_bloc
+# Movies Flutter
 
-A new Flutter application.
+Movies Flutter is a Demo of Movies App in flutter using DI, Bloc(Streams), Retrofit, SharedPrefs, rxdart and AppLocalization.
+## Installation
 
-## Getting Started
+```bash
+git clone the project
+flutter pub get
+run
+```
 
-This project is a starting point for a Flutter application.
+## Usage
 
-A few resources to get you started if this is your first Flutter project:
+```python
+1- Run the Project
+2- explore movies and its details
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
