@@ -1,0 +1,47 @@
+
+
+{
+  "home": "Home",
+  "login_view": "Login",
+  "NO_INTERNET": "There's no connection to internet, \n Please connect first and retry again",
+  "username_placeholder": "User name",
+  "password_placeholder": "Password",
+  "password_sensitive": "Password is sensitive to Letter",
+  "forget_password": "Forget Password ?",
+  "dont_have_account": "If you don't have account yet, you can",
+  "create_account": "Create New Account",
+  "forget_password_title": "Reset Password",
+  "email": "Email",
+  "email_confirmation": "Confirm Email",
+  "enter_email": "Enter your email",
+  "phone_title": "Phone Number",
+  "send": "Send",
+  "regitser_title": "Register Inspector Account",
+  "register_first_tab": "Primary",
+  "register_first_tab_des": "Data",
+  "register_second_tab": "Science",
+  "register_second_tab_des": "Certificates",
+  "register_third_tab": "Account",
+  "register_third_tab_des": "Data",
+  "identity_number": "Identity Number",
+  "membership_number": "The membership number of the Saudi Engineers Council",
+  "validate_title": "Validate",
+  "full_name": "Full name",
+  "civil_registry": "No. civil registry",
+  "inspector_speciality": "Inspector Speciality",
+  "membership_number_min": "Membership Number",
+  "membership_expiration": "Membership Expiration Date",
+  "continue": "Continue",
+  "back": "Back",
+  "DEAR_ENGINEER_MSG": "If you are eligible to join as an examiner for one of the two services only, you can follow up on the joining application by attaching the pass certificate for the qualifying session for the service in the required field without the need to attach any document in the field for the other service's course.",
+  "PASSWORD_DESC": "كلمة المرور لا تقل عن ٨ حروف ولا تزيد عن ٢٥ حرف ولا يقبل النظام كلمات المرور الضعيفة أي يجب ان تتكون من حروف وأرقام",
+  "BUILDING_QUALITY_CERTIFICATE": "Building Quality Service Certificate Number",
+  "QUALITY_CERTIFICATE": "Building Quality Service Certificate",
+  "READY_BUILDING_CERTIFICATE_NUMBER": "Prefabricated Building Certificate Number",
+  "READY_BUILDING_CERTIFICATE": "Prefabricated Building Inspection Certificate",
+  "IBAN_PLACEHOLDER": "IBAN Number",
+  "IBAN_MSG": "The IBAN consists of 24 characters and starts with two letters, for example SA0000000000000000000000"
+
+
+
+}
