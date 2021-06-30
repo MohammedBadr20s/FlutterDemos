@@ -76,6 +76,38 @@ class LandingView extends StatelessWidget {
 
                 ],
               ),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  TextButton.icon(
+                    onPressed: () {
+                      Navigator.pushNamed(context, 'receipt_view');
+                    }, label: Text('Receipt View',
+                      style: TextStyle(
+                          fontSize: 17,
+                          color: Colors.black,
+                          fontWeight: FontWeight.bold
+                      )
+                  ),
+                    icon: Icon(Icons.image, color: Colors.black),
+                  ),
+                  Container(height: 10),
+                  // TextButton.icon(
+                  //   onPressed: () {
+                  //     Navigator.pushNamed(context, 'file_picker');
+                  //   }, label: Text('File Picker',
+                  //     style: TextStyle(
+                  //         fontSize: 17,
+                  //         color: Colors.black,
+                  //         fontWeight: FontWeight.bold
+                  //     )
+                  // ),
+                  //   icon: Icon(Icons.add_chart, color: Colors.black),
+                  // ),
+                  // Container(height: 10),
+
+                ],
+              ),
             ],
           ),
         ),

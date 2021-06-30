@@ -7,7 +7,7 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   di.init();
 
-  runApp(PaginationScreen(transactionCubit: di.getIt()));
+  runApp(PaginationScreen(transactionCubit: di.getIt(), receiptCubit: di.getIt()));
 }
 
 
